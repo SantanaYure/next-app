@@ -4,11 +4,15 @@ const Sobre = () => {
       <div>Pagina Sobre</div>
       <ul>
         <li>
-          <a href="/sobre/yure">Yure</a>
+          <a href="/sobre/Yure">Yure</a>
         </li>
 
         <li>
-          <a href="/sobre/jolyne">Jolyne</a>
+          <a href="/sobre/Jolyne">Jolyne</a>
+        </li>
+
+        <li>
+          <a href="/sobre/Jotaro">Jotaro</a>
         </li>
       </ul>
     </div>
