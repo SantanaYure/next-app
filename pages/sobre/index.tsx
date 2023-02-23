@@ -14,6 +14,10 @@ const Sobre = () => {
         <li>
           <a href="/sobre/Jotaro">Jotaro</a>
         </li>
+
+        <li>
+          <a href="/blog">Acessar Blog</a>
+        </li>
       </ul>
     </div>
   );
